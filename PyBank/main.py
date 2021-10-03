@@ -1,3 +1,5 @@
+#script to do profit/loss analysis
+
 import os
 
 import csv
